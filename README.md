@@ -7,7 +7,6 @@ Release 1 by parsing the filenames and providing code for querying the
 
 Install with
 
-    :::bash
     python setup.py install
 
 See `example.py` for a simple example of using this code.
